@@ -5,6 +5,8 @@ This is a markdown file for you to learn some things about the Women Who Code
 organization while you learn some real-world git skills. Get ready to push it
 (or `git push origin $(current_branch)` to be more accurate)!
 
+We met this morning across the street from Findlay Market and had some tasty snacks.
+
 ![push-it](http://i1.wp.com/blog.kodable.com/wp-content/uploads/2015/02/salt-n-pepa-push-it-commercial.gif?resize=581%2C359)
 
 ### Overview Women Who Code (WWCode) is a global non-profit organization which
